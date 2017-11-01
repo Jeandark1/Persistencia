@@ -31,4 +31,4 @@ Dentro de Android Studio:
     </center>
 </div>
 <br><br>
-<a href="http://www.miramicodigo.com" target="_blank">@remmcal
+<a href="https://github.com/remmcal" target="_blank">@remmcal
